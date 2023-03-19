@@ -1,1 +1,1 @@
-# Write-a-program-to-print-the-area-of-two-rectangle-Code-having-sides-4-5-and-5-8-respectively-by
+# Write-a-program-to-print-the-area-of-two-rectangle-Code-having-sides-and-respectively-by
